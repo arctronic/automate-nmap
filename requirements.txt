@@ -45,7 +45,7 @@ h2==3.2.0
 hpack==3.0.0
 html5lib==1.0.1
 http-tools==1.1.1
-httplib2==0.14.0
+httplib2==0.18.0
 hyperframe==5.2.0
 idna==2.8
 IP2Location==8.4.1
